@@ -8,7 +8,6 @@ Increment = lambda a : (a+10)
 mul = lambda a,b : (a*b);
 
 def main():
-    #data = [10,21,3,1,74,85,90,88];
     data = [];
     print("Enter no. of elements in list")
     tot = int(input());
