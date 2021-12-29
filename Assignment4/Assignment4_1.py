@@ -11,4 +11,5 @@ def main():
     print("Squre = ",ret);
 
 if __name__ == "__main__":
+    print("Hello World")
     main(); 
