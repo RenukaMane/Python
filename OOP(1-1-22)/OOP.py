@@ -11,7 +11,7 @@ class Arithmetic:
         ans = self.no1 + self.no2
         return ans
 
-def main():
+def main():   #POP Code
     print("Enter first number :");
     X = int(input());
     
