@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4008],{4382:e=>{e.exports=JSON.parse('{"label":"Demo","permalink":"/Python/docs/tags/demo","allTagsPath":"/Python/docs/tags","count":1,"items":[{"id":"greeting","title":"Hello from Docusaurus","description":"Create a doc page with rich content.","permalink":"/Python/docs/tmp"}]}')}}]);
